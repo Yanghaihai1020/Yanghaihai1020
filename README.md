@@ -36,7 +36,7 @@
   </a>
   &emsp;
   <br><br>
-  <strong>Check out my work below!</strong>
+  <strong>~~~~~~~~~~~~~~~~!</strong>
   <br><br>
 </p>
 
