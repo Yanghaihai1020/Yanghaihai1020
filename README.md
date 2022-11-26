@@ -36,7 +36,7 @@
   </a>
   &emsp;
   <br><br>
-  <strong>~~~~~~~~~~~~~~~~!</strong>
+  <strong>~~~~~~~~~~~~~~~~</strong>
   <br><br>
 </p>
 
